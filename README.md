@@ -1,1 +1,1 @@
-GAM531 - Game Engine Foundations
+GAM531 - Game Engine Foundations with professor Alireza Moghaddam
