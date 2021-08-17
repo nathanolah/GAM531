@@ -1,1 +1,1 @@
-"# GAM531" 
+GAM531 - Game Engine Foundations
